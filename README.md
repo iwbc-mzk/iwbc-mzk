@@ -23,3 +23,8 @@ Here are some ideas to get you started:
         <img height="200px" src="https://github-readme-stats-8fbvjo0t0-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&theme=darcula&hide=Jupyter%20Notebook" />
     </a>
 <p>
+<p align="center">
+    <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
+        <img height="200px" src="https://atcoder-readme-stats-git-main-iwbc-mzk.vercel.app/stats/iwbc_mzk?theme=darcula">
+    </a>
+</p>
