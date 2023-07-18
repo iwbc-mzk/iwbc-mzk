@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats-8fbvjo0t0-iwbc-mzk.vercel.app/api?username=iwbc-mzk&count_private=true&show_icons=true&theme=darcula" />
+        <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api?username=iwbc-mzk&count_private=true&show_icons=true&theme=darcula" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats-8fbvjo0t0-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&theme=darcula&hide=Jupyter%20Notebook" />
+        <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&theme=darcula&hide=Jupyter%20Notebook" />
     </a>
 <p>
 <p align="center">
