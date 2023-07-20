@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <p>
 <p align="center">
     <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
-        <img width="550px" src="https://atcoder-readme-stats-git-main-iwbc-mzk.vercel.app/stats/iwbc_mzk?theme=darcula&show_history=true">
+        <img width="550px" src="https://atcoder-readme-stats-git-main-iwbc-mzk.vercel.app/stats/iwbc_mzk?theme=darcula&show_history=true&show_icons=true">
     </a>
 </p>
