@@ -28,6 +28,6 @@ Here are some ideas to get you started:
         <img width="450px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?theme=darcula&show_history=true&show_icons=true">
     </a>
     <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
-        <img width="450px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?theme=darcula">
+        <img width="450px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?theme=darcula&type=ac">
     </a>
 </p>
